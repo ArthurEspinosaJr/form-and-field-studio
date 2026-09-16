@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://arthurespinosajr.github.io/Website-consultancy/sitemap.xml
+Sitemap: https://arthurespinosajr.github.io/form-and-field-studio/sitemap.xml
 

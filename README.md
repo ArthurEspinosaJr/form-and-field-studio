@@ -1,6 +1,6 @@
-# Espinosa Web Studio
+# Form & Field Studio
 
-Live website: https://arthurespinosajr.github.io/Website-consultancy/
+Live website: https://arthurespinosajr.github.io/form-and-field-studio/
 
 A freelance web design website for Sydney small businesses, by Arthur Espinosa.
 
