@@ -1,6 +1,6 @@
-# Form & Field Studio
+# Cornerkite Studio
 
-Live website: https://arthurespinosajr.github.io/form-and-field-studio/
+Live website: https://arthurespinosajr.github.io/cornerkite-studio/
 
 A freelance web design website for Sydney small businesses, by Arthur Espinosa.
 
