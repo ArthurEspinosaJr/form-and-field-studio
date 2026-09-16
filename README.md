@@ -1,19 +1,17 @@
-# LocalMade
+# Espinosa Web Studio
+
+Live website: https://arthurespinosajr.github.io/Website-consultancy/
 
 A freelance web design website for Sydney small businesses, by Arthur Espinosa.
 
-Live website: https://localmade-arthur-studio.arthurespinosa.chatgpt.site/
+## Hosting
 
-## Preview
+GitHub Pages publishes the main branch from the repository root. Changes committed to main trigger a new deployment. The website uses static HTML, CSS and JavaScript with no build dependencies.
 
-This repository contains static HTML, CSS and JavaScript at its root. Serve this directory with a static web server to preview it. There are no build dependencies.
+The local working copy stores the public website files in dist; the GitHub repository stores the same files at its root.
 
-## Publishing
+## Enquiries
 
-Sites hosts the public website. GitHub stores a source snapshot; commits here do not automatically publish to Sites. The local Sites working copy keeps these public assets in its dist directory.
+The contact form uses FormSubmit to deliver enquiries. Native browser validation, a honeypot and CAPTCHA protect submissions. No mailbox credentials are stored in the website. The sample plumbing enquiry is an illustration and sends no messages.
 
-The introductory website build price is AUD $299. Domain, hosting and optional automation are quoted separately.
-
-## Contact form
-
-The contact form uses a dedicated email-delivery service. Native browser validation, a honeypot and provider CAPTCHA protect submissions. No mailbox password or OAuth token is included. The sample plumbing enquiry interaction is a simulation and sends nothing.
+Introductory website build: AUD $299. Domain, hosting and optional automation are quoted separately.
