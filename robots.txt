@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://localmade-arthur-studio.arthurespinosa.chatgpt.site/sitemap.xml
