@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://arthurespinosajr.github.io/cornerkite-studio/sitemap.xml
+Sitemap: https://arthurespinosajr.github.io/quoteforge/sitemap.xml
 

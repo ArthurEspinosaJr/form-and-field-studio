@@ -1,6 +1,6 @@
-# Cornerkite Studio
+# QuoteForge
 
-Live website: https://arthurespinosajr.github.io/cornerkite-studio/
+Live website: https://arthurespinosajr.github.io/quoteforge/
 
 A freelance web design website for Sydney small businesses, by Arthur Espinosa.
 
